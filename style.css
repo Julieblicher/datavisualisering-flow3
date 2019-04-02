@@ -5,5 +5,24 @@
 	padding: 10%;
 	
 }
+.bars {
+	fill: #255754;
+}
+#d3_svg_bar {
+	background: #c1e3f2;
+	padding-left: 18%;
+	margin: 3%;
+}
+h5 {
+	padding-top: 5%;
+	font-family: montserrat, sans-serif;
+	margin-left: 3%;
 
+}
+.hovedstaden {
+	fill: red;
+}
 
+.card-text {
+	font-family: montserrat;
+}
